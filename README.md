@@ -1,6 +1,6 @@
 #### 
 
-<h1>Welcome I'm Mathias Lima 🚀</h1>
+<h2>Welcome I'm Mathias Lima 🚀</h2>
 
 <h4>Frontend Developer At Closeer :purple_heart:</h4>
 
