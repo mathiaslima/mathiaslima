@@ -2,7 +2,7 @@
 
 <h2>Welcome I'm Mathias Lima 🚀</h2>
 
-<h4>Frontend Developer At Closeer :purple_heart:</h4>
+<h4>Frontend Developer At Closeer :purple_heart: :green_heart:</h4>
 
 <p>:fire: Skills: <strong>Javascript, Typescript, HTML, CSS, Sass/SCSS, ReactJS, React Native, VueJS, AngularJS, Ionic and NodeJS.</strong></p>
 
