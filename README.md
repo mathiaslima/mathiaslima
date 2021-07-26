@@ -10,7 +10,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-mathias.morais7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathias.morais7@gmail.com)](mailto:mathias.morais7@gmail.com)
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiaslima&show_icons=true&theme=radical)
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiaslima&layout=compact&hide=html&theme=dark" alt="mathiaslima" />
 <div/>
+  
+ [![Mathias Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiaslima&show_icons=true&theme=radical)]
 
