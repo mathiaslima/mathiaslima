@@ -2,7 +2,7 @@
 
 <h2>Welcome I'm Mathias Lima 🚀</h2>
 
-<h4>Software Engineer SR</h4>
+<h4>:fire: Software Engineer SR</h4>
 
 <p>:fire: Skills: <strong>Javascript, Typescript, HTML, CSS, Sass/SCSS, ReactJS, React Native, VueJS, AngularJS, Ionic, ExpressJS and NodeJS.</strong></p>
 
